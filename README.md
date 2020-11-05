@@ -1,3 +1,21 @@
+
+Simple To-do list made with React. 
+
+Things left to...do...:
+- Persistent Storage
+- Bug fixes
+
+![Image of Frontend](https://raw.githubusercontent.com/kiera-bot/task-list/main/Screen%20Shot%202020-11-04%20at%209.36.08%20PM.png)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
